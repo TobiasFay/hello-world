@@ -1,2 +1,3 @@
 # hello-world
-Übung Github
+# This code has just been changed for learning purposes
+
